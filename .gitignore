@@ -1,0 +1,11 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+cache
+artifacts
+go.sum
+package-lock.json
+polygon-arbitrage.code-workspace
